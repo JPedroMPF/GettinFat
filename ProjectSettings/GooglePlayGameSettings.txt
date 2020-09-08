@@ -1,0 +1,6 @@
+lastUpgrade=00920
+proj.AppId=336752560000
+android.SetupDone=true
+ios.ClientId=815669192767-mf9jr4uforn8k002bp4sngun4cpnsrkc.apps.googleusercontent.com
+ios.BundleId=com.w4it.GettinFat
+ios.SetupDone=true

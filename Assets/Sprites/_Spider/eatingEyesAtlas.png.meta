@@ -1,0 +1,124 @@
+fileFormatVersion: 2
+guid: 5e93831c2c1dd754ea9d023b9f62835a
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: eatingEyesAtlas_0
+    21300002: eatingEyesAtlas_1
+    21300004: eatingEyesAtlas_2
+    21300006: eatingEyesAtlas_3
+    21300008: eatingEyesAtlas_4
+    21300010: eatingEyesAtlas_5
+    21300012: eatingEyesAtlas_6
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: .25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  seamlessCubemap: 0
+  textureFormat: -3
+  maxTextureSize: 512
+  textureSettings:
+    filterMode: 2
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: .5, y: .5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: eatingEyesAtlas_0
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 133
+        width: 82
+        height: 62
+      alignment: 2
+      pivot: {x: .5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: eatingEyesAtlas_1
+      rect:
+        serializedVersion: 2
+        x: 109
+        y: 125
+        width: 82
+        height: 72
+      alignment: 2
+      pivot: {x: .5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: eatingEyesAtlas_2
+      rect:
+        serializedVersion: 2
+        x: 205
+        y: 119
+        width: 100
+        height: 86
+      alignment: 2
+      pivot: {x: .5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: eatingEyesAtlas_3
+      rect:
+        serializedVersion: 2
+        x: 317
+        y: 116
+        width: 114
+        height: 95
+      alignment: 2
+      pivot: {x: .5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: eatingEyesAtlas_4
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 17
+        width: 102
+        height: 86
+      alignment: 2
+      pivot: {x: .5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: eatingEyesAtlas_5
+      rect:
+        serializedVersion: 2
+        x: 119
+        y: 47
+        width: 82
+        height: 58
+      alignment: 2
+      pivot: {x: .5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: eatingEyesAtlas_6
+      rect:
+        serializedVersion: 2
+        x: 215
+        y: 53
+        width: 82
+        height: 52
+      alignment: 2
+      pivot: {x: .5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+  spritePackingTag: 
+  userData: 

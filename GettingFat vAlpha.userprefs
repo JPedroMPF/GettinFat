@@ -1,0 +1,13 @@
+﻿<Properties StartupItem="Assembly-CSharp.csproj">
+  <MonoDevelop.Ide.Workspace />
+  <MonoDevelop.Ide.Workbench ActiveDocument="../../../Desktop/MobileVersion/Assets/EasyMovieTexture/Scripts/MediaPlayerCtrl.cs">
+    <Files>
+      <File FileName="../../../Desktop/MobileVersion/Assets/Cardboard/Scripts/GazeInputModule.cs" Line="24" Column="1" />
+      <File FileName="../../../Desktop/MobileVersion/Assets/EasyMovieTexture/Scripts/MediaPlayerCtrl.cs" Line="8" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>

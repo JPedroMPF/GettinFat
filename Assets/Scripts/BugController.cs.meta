@@ -1,0 +1,10 @@
+fileFormatVersion: 2
+guid: d304c6e7a1cb1a146a86a2c7fa80a82d
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences:
+  - spider: {fileID: 125346, guid: dcfc0ba634e161c49b46edf1adb0d1ca, type: 2}
+  - mainScript: {instanceID: 0}
+  executionOrder: 300
+  icon: {instanceID: 0}
+  userData: 

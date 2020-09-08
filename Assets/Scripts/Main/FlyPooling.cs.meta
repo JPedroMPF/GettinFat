@@ -1,0 +1,9 @@
+fileFormatVersion: 2
+guid: 9c36c3c41427f6b42881b5b6450fd9e9
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences:
+  - pooledObject: {fileID: 106992, guid: 5ee826ce89d03da46bc3fd6aeb33f834, type: 2}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
